@@ -5,13 +5,10 @@
 
 ### 🧑🏻‍💻 About me:
 
-- ✨ I'm 20 years old
-- 💥 I am an explosion of positivity.
-- 😄 Always smiling and energetic.
-- 🌍 I dream of conquering the whole world.
-- 🌅 I love to discover new horizons.
-- 🌟 Life is an eternal source of inspiration.
-- 😊 Seriously, I don't know what to write here.)
+- ✨ I'm 21 years old
+- 🎓 I'm a fourth-year student at Novosibirsk State University (NSU).
+- 💻 My diploma project focuses on AI-powered video fragment retrieval.
+- 🎲 I enjoy playing both board games and video games.
 
 ### 🚀 Links:
 
