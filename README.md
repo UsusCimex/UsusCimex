@@ -6,14 +6,14 @@
 ### 🧑🏻‍💻 About me:
 
 - ✨ I'm 21 years old
-- 🎓 I'm a fourth-year student at Novosibirsk State University (NSU).
+- 🎓 I am a master's student at Novosibirsk State University (NSU).
 - 💻 My diploma project focuses on AI-powered video fragment retrieval.
 - 🎲 I enjoy playing both board games and video games.
 
 ### 🚀 Links:
 
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=Telegram&logoColor=white&color=blue)](https://t.me/UsusCimex)
-[![Email Badge](https://img.shields.io/badge/-Email-0088cc?style=for-the-badge&logo=Gmail&logoColor=white&color=yellow)](mailto:daniil8914game@mail.ru)
+[![Email Badge](https://img.shields.io/badge/-Email-0088cc?style=for-the-badge&logo=Gmail&logoColor=white&color=yellow)](mailto:daniil8914mail@mail.ru)
 
 
 
